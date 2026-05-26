@@ -7,6 +7,69 @@ This project investigates the use of deep learning techniques for detecting frau
 The primary challenge addressed in this project is the extreme class imbalance present in real-world fraud detection datasets, where fraudulent transactions represent only a small fraction of all transactions. Various imbalance-handling techniques, including class weighting, anomaly detection, and synthetic data generation, were implemented and evaluated.
 
 ---
+## Project Highlights
+
+✔ Developed and evaluated four deep learning architectures for fraud detection
+
+✔ Addressed extreme class imbalance (0.172% fraud rate) using class weighting and GAN-based synthetic oversampling
+
+✔ Achieved a PR-AUC of 0.7228 using a GAN-augmented classifier
+
+✔ Reduced false positives by approximately 98.9% compared to the baseline DNN
+
+✔ Evaluated supervised, unsupervised, sequential, and generative learning approaches
+
+✔ Built using TensorFlow, Keras, Scikit-Learn, and Python
+
+---
+
+## Results and Visualizations
+
+### Model Performance Comparison
+
+![Performance Comparison](figures/model_comparison.png)
+
+### Precision-Recall Curve
+
+![Precision Recall Curve](figures/precision_recall_curve.png)
+
+### ROC Curve
+
+![ROC Curve](figures/roc_curve.png)
+
+### Confusion Matrix (Best Model)
+
+![Confusion Matrix](figures/confusion_matrix.png)
+
+### GAN-Based Class Augmentation
+
+![GAN Augmentation](figures/class_balance_comparison.png)
+
+### DNN Training History
+
+![DNN Training](figures/dnn_training_history.png)
+
+---
+
+## Key Results
+
+| Metric | Best Model (GAN + Classifier) |
+|----------|----------|
+| Precision | 71% |
+| Recall | 81% |
+| F1-Score | 0.76 |
+| ROC-AUC | 0.9769 |
+| PR-AUC | 0.7228 |
+| False Positives | 31 |
+| Fraud Detection Rate | 81% |
+
+---
+
+## Why This Project Matters
+
+Financial institutions process millions of transactions daily, making fraud detection a critical challenge. Traditional rule-based systems often struggle to adapt to evolving fraud patterns and generate large numbers of false positives.
+
+This project demonstrates how deep learning and synthetic data generation can be leveraged to improve fraud detection performance while significantly reducing false alarms. The results highlight the effectiveness of GAN-based augmentation for learning from highly imbalanced datasets and provide practical insights for real-world fraud detection systems.
 
 ## Objectives
 
