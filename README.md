@@ -39,8 +39,8 @@ The primary challenge addressed in this project is the extreme class imbalance p
 <img width="861" height="706" alt="ROC curve" src="https://github.com/user-attachments/assets/cdc89ffe-7f10-4c71-b358-5a33f6ecfd87" />
 
 ### Confusion Matrix (Best Model)
+<img width="1349" height="1189" alt="Confusion Matrix plots" src="https://github.com/user-attachments/assets/42704d1f-eb13-4240-8c9b-fb9a0bd87745" />
 
-![Confusion Matrix](figures/Confusion Matrix plots.png)
 
 ### GAN-Based Class Augmentation
 
