@@ -39,7 +39,7 @@ The primary challenge addressed in this project is the extreme class imbalance p
 
 ### Confusion Matrix (Best Model)
 
-![Confusion Matrix](figures/confusion_matrix.png)
+![Confusion Matrix](figures/Confusion Matrix plots.png)
 
 ### GAN-Based Class Augmentation
 
