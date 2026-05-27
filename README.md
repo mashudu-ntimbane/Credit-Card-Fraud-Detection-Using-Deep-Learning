@@ -298,8 +298,7 @@ Future improvements may include:
 
 **MASHUDU NTIMBANE,**
 **PATEL MOHAMEDSUHAIL,**
-**NEMANGWELA UNARINE, and<img width="1189" height="590" alt="Matrices comparison bar chart plots" src="https://github.com/user-attachments/assets/a85aaed3-3faf-4d9c-a477-490c42307e21" />
-**
+**NEMANGWELA UNARINE, and**
 **SHABANE WAMASHUDU**
 
 Areas of Interest:
