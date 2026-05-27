@@ -27,15 +27,16 @@ The primary challenge addressed in this project is the extreme class imbalance p
 
 ### Model Performance Comparison
 
-![Performance Comparison](figures/model_comparison.png)
+<img width="1189" height="590" alt="Matrices comparison bar chart plots" src="https://github.com/user-attachments/assets/1b95301c-4f69-4c31-83c2-d6d7af3037b1" />
+
 
 ### Precision-Recall Curve
 
-![Precision Recall Curve](figures/precision_recall_curve.png)
+<img width="861" height="706" alt="Precision-Recall plot" src="https://github.com/user-attachments/assets/e4693063-2922-4766-961e-1c9c288b4634" />
+
 
 ### ROC Curve
-
-![ROC Curve](figures/roc_curve.png)
+<img width="861" height="706" alt="ROC curve" src="https://github.com/user-attachments/assets/cdc89ffe-7f10-4c71-b358-5a33f6ecfd87" />
 
 ### Confusion Matrix (Best Model)
 
@@ -43,11 +44,21 @@ The primary challenge addressed in this project is the extreme class imbalance p
 
 ### GAN-Based Class Augmentation
 
-![GAN Augmentation](figures/class_balance_comparison.png)
+<img width="1349" height="1189" alt="Confusion Matrix plots" src="https://github.com/user-attachments/assets/1521ab3a-9a7b-4b15-93b3-1cba79135e64" />
+
 
 ### DNN Training History
+<img width="1790" height="985" alt="DNN training history" src="https://github.com/user-attachments/assets/7fb9bb95-6610-4775-be9c-348d0109763f" />
 
-![DNN Training](figures/dnn_training_history.png)
+### Autoencoder Training History
+<img width="1790" height="985" alt="Autoencoder training history" src="https://github.com/user-attachments/assets/e6fef745-ea87-4ae5-b98a-336605865049" />
+<img width="1005" height="552" alt="Autoencoder error distribution" src="https://github.com/user-attachments/assets/7f567f25-26b1-4db2-9122-5874ea3215e0" />
+
+### LSTM Training History
+<img width="1790" height="985" alt="LSTM training history" src="https://github.com/user-attachments/assets/a95c1858-6efc-4ea6-9264-143f1df8f736" />
+
+### GAN Training History
+<img width="1788" height="985" alt="GAN training history" src="https://github.com/user-attachments/assets/ded7e4d5-e868-4eb4-ac64-e726d8129644" />
 
 ---
 
@@ -285,8 +296,11 @@ Future improvements may include:
 
 ## Author
 
-**Mashudu Ntimbane**
-**Patel**
+**MASHUDU NTIMBANE,**
+**PATEL MOHAMEDSUHAIL,**
+**NEMANGWELA UNARINE, and<img width="1189" height="590" alt="Matrices comparison bar chart plots" src="https://github.com/user-attachments/assets/a85aaed3-3faf-4d9c-a477-490c42307e21" />
+**
+**SHABANE WAMASHUDU**
 
 Areas of Interest:
 
@@ -296,7 +310,3 @@ Areas of Interest:
 - Software Development
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
